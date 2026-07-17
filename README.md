@@ -40,20 +40,20 @@
   <img src="https://skillicons.dev/icons?i=docker" height="48" />
 </a>
 
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=jupyter" height="48" />
+<a href="https://jupyter.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" height="48" />
 </a>
 
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=numpy" height="48" />
+<a href="https://numpy.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pandas" height="48" />
+<a href="https://pandas.pydata.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
 </a>
 
 </p>
