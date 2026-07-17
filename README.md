@@ -3,7 +3,7 @@
 
 🤖 I'm passionate about **Artificial Intelligence**. I enjoy combining mathematics and programming to solve real-world problems and I'm continuously learning new technologies.
 
----
+
 ## 💻 Languages & Tools
 
 <p align="left">
