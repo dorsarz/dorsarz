@@ -6,9 +6,16 @@
 ---
 - 🌱 I'm currently exploring Data Analysis and Machine Learning with Python.
 - 👯 I'm looking to collaborate on Java applications, Front-End development, and AI-related projects.
-- 📫 How to reach me: <a href="dorsarezaei24@gmail.com">
+- 
+## 📫 How to reach me
+   <a href="dorsarezaei24@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
+
+ <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 ## 💻 Languages & Tools
