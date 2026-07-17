@@ -1,16 +1,60 @@
-## Hi there 👋
+## 👋 Hi, I'm Dorsa
 
 <!--
-**dorsarz/dorsarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 I'm passionate about **Artificial Intelligence**. I enjoy combining mathematics and programming to solve real-world problems and I'm continuously learning new technologies.
 
-Here are some ideas to get you started:
+---
+## 💻 Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="48" />
+</a>
+
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" height="48" />
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" height="48" />
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=jupyter" height="48" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=numpy" height="48" />
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pandas" height="48" />
+</a>
+
+</p>
 -->
