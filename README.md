@@ -4,11 +4,10 @@
 - 🤖 I'm passionate about **Artificial Intelligence**.
 - 🧩 I enjoy combining mathematics and programming to solve real-world problems.
 - 📖 I'm continuously learning new technologies.
-
----
 - 🔭 I'm currently exploring Data Analysis and Machine Learning with Python.
 - 👯 I'm looking to collaborate on Java applications, Front-End development, and AI-related projects.
-  
+
+  ---
 ## 📫 How to reach me
    <a href="dorsarezaei24@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
@@ -17,6 +16,8 @@
 <a href="https://www.linkedin.com/in/dorsa-rezaei" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
+
+---
 
 ## 💻 Languages & Tools
 
