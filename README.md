@@ -56,5 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="48" width="48" />
 </a>
 
+<a href="https://www.anaconda.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" width="48"/>
+</a>
 </p>
 
