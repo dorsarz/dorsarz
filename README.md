@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Dorsa
 
 ## 👩🏽‍💻 About me 
-🤖 I'm passionate about **Artificial Intelligence**.
-🧩 I enjoy combining mathematics and programming to solve real-world problems.
-🧠 I'm continuously learning new technologies.
+- 🤖 I'm passionate about **Artificial Intelligence**.
+- 🧩 I enjoy combining mathematics and programming to solve real-world problems.
+- 🧠 I'm continuously learning new technologies.
 
 ---
 - 🌱 I'm currently exploring Data Analysis and Machine Learning with Python.
