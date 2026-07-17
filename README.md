@@ -1,4 +1,4 @@
- ## <h2 align="center">👋 Hi, I'm Dorsa</h2>
+ ## 👋 Hi, I'm Dorsa</h2>
 
  
 
