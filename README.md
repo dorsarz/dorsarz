@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Dorsa
 
 
-🤖 I'm passionate about **Artificial Intelligence**. I enjoy combining mathematics and programming to solve real-world problems and I'm continuously learning new technologies.
+👩🏽‍💻 I'm passionate about **Artificial Intelligence**. I enjoy combining mathematics and programming to solve real-world problems and I'm continuously learning new technologies.
 
 - 📫 How to reach me: dorsarezaei24@gmail.com
 
