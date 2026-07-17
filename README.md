@@ -1,5 +1,7 @@
  ## <h2 align="center">👋 Hi, I'm Dorsa</h2>
 
+ 
+
 ## 👩🏽‍💻 About me 
 - 🤖 I'm passionate about **Artificial Intelligence**.
 - 🧩 I enjoy combining mathematics and programming to solve real-world problems.
@@ -7,7 +9,7 @@
 - 🔭 I'm currently exploring Data Analysis and Machine Learning with Python.
 - 👯 I'm looking to collaborate on Java applications, Front-End development, and AI-related projects.
 
-  ---
+---
 ## 📫 How to reach me
    <a href="dorsarezaei24@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
